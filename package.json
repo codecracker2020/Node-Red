@@ -1,0 +1,19 @@
+{
+  "name": "node-red",
+  "version": "1.0.0",
+  "description": "Installing Node Red in Windows 10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codecracker2020/Node-Red.git"
+  },
+  "author": "Naveen Kolla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codecracker2020/Node-Red/issues"
+  },
+  "homepage": "https://github.com/codecracker2020/Node-Red#readme"
+}
